@@ -1,0 +1,9 @@
+{
+  "name": "JSV",
+  "description": "A JavaScript implementation of a extendable, fully compliant JSON Schema validator",
+  "homepage": "https://github.com/ahdinosaur/meteor-JSV",
+  "author": "Michael Williams",
+  "version": "0.0.1",
+  "git": "https://github.com/ahdinosaur/meteor-JSV.git",
+  "packages": {}
+}
