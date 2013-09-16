@@ -1,5 +1,5 @@
 Package.describe({
-  summary: ""
+  summary: "A JavaScript implementation of a extendable, fully compliant JSON Schema validator"
 });
 
 Package.on_use(function (api) {
